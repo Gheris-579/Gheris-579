@@ -1,4 +1,4 @@
-# 💫 About Me: Gheris D'auria
+#  Hi👋, I'am Gheris
 
 
 # 💻 Tech Stack:
