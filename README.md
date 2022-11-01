@@ -18,5 +18,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NEGAN-579&icon=0&color=12)](https://visitcount.itsvg.in)
-
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=NEGAN-579&label=Profile%20Views&color=12&icon=3&pretty=true" />
+</a>
+</div>
