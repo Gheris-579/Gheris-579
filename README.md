@@ -1,6 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+ 
+<div align="center">
+  <h1> Hey there👋</h1>
+ </div>
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gheris__579_) 
 
 # My skills
 <p align="center">
@@ -9,7 +18,7 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+# 🔥 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NEGAN-579&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NEGAN-579&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NEGAN-579&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
