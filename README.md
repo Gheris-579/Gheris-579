@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gheris__579_) 
 </div>
  
 <div align="center">
@@ -14,7 +16,7 @@
 # My skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py,vue,bootstrap" />
   </a>
 </p>
 
