@@ -16,7 +16,7 @@
 # My skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,py,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,py,linux" />
   </a>
 </p>
 
