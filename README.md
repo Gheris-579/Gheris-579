@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gheris__579_) 
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gheris__579_) 
+  [![YouTube](https://img.shields.io/badge/YouTube-cc0000.svg?logo=YouTube&logoColor=white)]([https://shields.io/](https://www.youtube.com/channel/UCpHrod_qXYW13KqiVxtWKqw))
 </div>
  
 <div align="center">
