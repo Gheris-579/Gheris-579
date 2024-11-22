@@ -22,7 +22,8 @@
 |  2 |  [Fake-SMS](https://github.com/Gheris-579/Fake-SMS) |The function of this tool is to send anonymous messages but this tool can only send one message per day | Python |
 |  3 |  [RANSOMEWARE](https://github.com/Gheris-579/RANSOMEWARE) |This Ransomware musn't be used to harm/threat/hurt other person's computer. It's purpose is only to share knowledge and awareness about Malware/Cryptography/Operating Systems/Programming. This ransomware made for learning and awareness about security/cryptography.  | Python |
 |  4 |  [IP-Tracker](https://github.com/Gheris-579/IP-Tracker) | Track any ip address with IP-Tracker. IP-Tracker is developed for Linux. you can retrieve any ip address information using IP-Tracker.  | Python |
-|  5 |  [keylogger](https://github.com/Gheris-579/keylogger) | Simple keylogger. | python |
+|  5 |  [keylogger](https://github.com/Gheris-579/keylogger) | Simple keylogger. | Python |
+| 6  |  [Counter-Strike1.6](https://github.com/Gheris-579/Counter-Strike1.6) | Enjoy the new Counter Strike 1.6 with new skills and everything else. | Python
 
 <br/>
 
