@@ -11,7 +11,7 @@
  
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=381e5c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gheris;I'm+19+years+old;I+from+Italy,+Pisa;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2F3F4&size=44&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gheris;I'm+19+years+old;I+from+Italy,+Pisa;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  </div>
 
