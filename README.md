@@ -31,6 +31,7 @@
 |  4 |  [IP-Tracker](https://github.com/Gheris-579/IP-Tracker) | Track any ip address with IP-Tracker. IP-Tracker is developed for Linux. you can retrieve any ip address information using IP-Tracker.  | Python |
 |  5 |  [keylogger](https://github.com/Gheris-579/keylogger) | Simple keylogger. | Python |
 | 6  |  [Counter-Strike1.6](https://github.com/Gheris-579/Counter-Strike1.6) | Enjoy the new Counter Strike 1.6 with new skills and everything else. | Python
+| 7  | [Sniffing-Attack-using-Wireshark](https://github.com/Gheris-579/Sniffing-Attack-using-Wireshark) |  Un attacco di sniffing implica l'intercettazione e l'analisi del traffico di rete per catturare informazioni sensibili come nomi utente, password e altri dati. Wireshark è un popolare analizzatore di protocolli di rete che può essere utilizzato per la risoluzione dei problemi e l'analisi della rete, ma può anche essere abusato per scopi malevoli, come gli attacchi di sniffing. |  Wireshark  |
 
 <br/>
 
