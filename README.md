@@ -32,8 +32,8 @@
 |  5 |  [keylogger](https://github.com/Gheris-579/keylogger) | Simple keylogger. | Python |
 | 6  |  [Counter-Strike1.6](https://github.com/Gheris-579/Counter-Strike1.6) | Enjoy the new Counter Strike 1.6 with new skills and everything else. | Python
 | 7  | [Sniffing-Attack-using-Wireshark](https://github.com/Gheris-579/Sniffing-Attack-using-Wireshark) |  A sniffing attack involves intercepting and analyzing network traffic to capture sensitive information such as usernames, passwords, and other data. Wireshark is a popular network protocol analyzer that can be used for troubleshooting and network analysis, but it can also be abused for malicious purposes, such as sniffing attacks. |  Wireshark  |
-|8 | [jetbrains](https://github.com/Gheris-579/jetbrains) | Hello everyone! If you're reading this, you're lucky! Today, I'm presenting to you the webpage you've always wanted. On this page, you'll find everything that other sites have never offered you. I hope you make good use of what you find here! If you liked it, give it a star! | HTML&CSS&JS |
-|9 | [Ip-ChAnGeR](https://github.com/Gheris-579/Ip-ChAnGeR.git) | Tools to Mask or Change Your IP at Regular Intervals (Even Every Second) |   Python |
+|8 | [Ip-ChAnGeR](https://github.com/Gheris-579/Ip-ChAnGeR.git) | Tools to Mask or Change Your IP at Regular Intervals (Even Every Second) |   Python |
+|9| [DUPE](https://github.com/Gheris-579/DUPE.git) | Duplicate Uncovering Program Eliminator | Python |
 
 <br/>
 
