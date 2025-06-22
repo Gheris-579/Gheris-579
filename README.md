@@ -31,7 +31,7 @@ Yo, I’m **Gheris** , a cybersecurity geek and Python wizard who loves building
 
 ---
 
-## My Skills 🔑 
+## My Skills  
 Here’s what I bring to the table, sharpened through hours of coding and ethical hacking:  
 - **Programming Languages**:  
   - 🐍 Python: Building robust tools and scripts  
@@ -51,7 +51,7 @@ Here’s what I bring to the table, sharpened through hours of coding and ethica
     
 ---
 
-##  Signature Projects 🛠️
+##  Signature Projects 
 Here’s my lineup of killer tools, each crafted to explore cybersecurity and spark learning. Built with love and a touch of cyber magic! 💻
 
 | ID | Project | Description | Language |
@@ -69,7 +69,7 @@ Here’s my lineup of killer tools, each crafted to explore cybersecurity and sp
 
 ---
 
-##  Showcase Repositories 🌟
+##  Showcase Repositories 
 <div align="center">
   <a href="https://github.com/Gheris-579/Fake-SMS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gheris-579&repo=Fake-SMS&theme=gruvbox&border_radius=12&border_color=00ff88" alt="Fake-SMS" />
@@ -81,7 +81,7 @@ Here’s my lineup of killer tools, each crafted to explore cybersecurity and sp
 
 ---
 
-##  Connect With Me 📬
+##  Connect With Me 
 Wanna talk code, cybersecurity, or just vibe? Hit me up!  
 - 📸 **Instagram**: [gheris__579_](https://www.instagram.com/gheris__579_)  
 - 🎥 **YouTube**: [@ZeRo-_-579-r1x](https://www.youtube.com/@ZeRo-_-579-r1x)
@@ -89,7 +89,7 @@ Wanna talk code, cybersecurity, or just vibe? Hit me up!
 
 ---
 
-##  My GitHub Stats 📈
+##  My GitHub Stats 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gheris-579&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&bg_color=0a0a23&title_color=00ff88&text_color=ffffff" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gheris-579&layout=compact&theme=gruvbox&hide_border=true&bg_color=0a0a23&title_color=00ff88&text_color=ffffff" alt="Top Languages" width="48%" />
@@ -97,14 +97,14 @@ Wanna talk code, cybersecurity, or just vibe? Hit me up!
 
 ---
 
-##  Visitor Counter 👀
+##  Visitor Counter 
 <div align="center">
   <img align="center" src="https://profile-counter.glitch.me/{NEGAN-579}/count.svg" /></p>
 </div>
 
 ---
 
-##  Contributing Guidelines 🤝 
+##  Contributing Guidelines  
 I’m pumped to work with you! Want to add some flair to my projects? Here’s how:  
 1. Fork the repo you’re digging.  
 2. Create a branch: `git checkout -b feature/your-awesome-idea`.  
@@ -116,17 +116,17 @@ Stick to [PEP 8](https://peps.python.org/pep-0008/) for Python and toss in tests
 
 ---
 
-##  Security Policy 🔒
+##  Security Policy 
 Spot a security bug? Please hit me up privately via Instagram (@gheris__579_) or GitHub Issues. Don’t share vulnerabilities publicly until we fix them. Keep API keys and sensitive data locked down tight.
 
 ---
 
-##  License 📜
+##  License 
 My projects are **Unlicensed**. Feel free to use, tweak, or share, but they come with no guarantees. Check each repo’s `LICENSE` file for the full scoop.
 
 ---
 
-##  Disclaimer ⚠️
+##  Disclaimer 
 My tools are for **learning and fun only**. Don’t use them to mess with anyone, violate privacy, or break laws or terms of service. I’m not responsible if you go off-script.
 
 <div align="center">
