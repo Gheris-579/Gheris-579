@@ -35,7 +35,7 @@ Yo, I’m **Gheris** , a cybersecurity geek and Python wizard who loves building
 Here’s what I bring to the table, sharpened through hours of coding and ethical hacking:  
 - **Programming Languages**:  
   - 🐍 Python: Building robust tools and scripts  
-  - 📡 Wireshark Scripting: Analyzing network traffic like a pro  
+  - 📡 Wireshark Scripting: Analyzing network traffic 
 - **Cybersecurity Expertise**:  
   - 🔍 OSINT: Digging deep for open-source intelligence  
   - 🕵️ Ethical Hacking: Testing systems to make them stronger  
