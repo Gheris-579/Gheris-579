@@ -117,7 +117,7 @@ Stick to [PEP 8](https://peps.python.org/pep-0008/) for Python and toss in tests
 ---
 
 ##  Security Policy 
-Spot a security bug? Please hit me up privately via Instagram (@gheris__579_) or GitHub Issues. Don’t share vulnerabilities publicly until we fix them. Keep API keys and sensitive data locked down tight.
+Spot a security bug? Please hit me up privately via Instagram (@gheris__579_) or GitHub Issues. 
 
 ---
 
