@@ -90,8 +90,6 @@ My projects are **Unlicensed**. Feel free to use, tweak, or share, but they come
 
 ---
 
-##  Disclaimer 
-My tools are for **learning and fun only**. Don’t use them to mess with anyone, violate privacy, or break laws or terms of service. I’m not responsible if you go off-script.
 
 <div align="center">
   <p>✨ Thank you for visiting my Cybersecurity Vault! Let’s code, secure, and innovate together! ✨</p>
