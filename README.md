@@ -11,42 +11,15 @@
 
 ---
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [My Skills](#my-skills)
-- [Signature Projects](#signature-projects)
-- [Showcase Repositories](#showcase-repositories)
-- [Connect With Me](#connect-with-me)
-- [My GitHub Stats](#my-github-stats)
-- [Visitor Counter](#visitor-counter)
-- [Contributing Guidelines](#contributing-guidelines)
-- [Security Policy](#security-policy)
-- [License](#license)
-- [Disclaimer](#disclaimer)
 
----
 
 ## About Me 
 Yo, I’m **Gheris** , a cybersecurity geek and Python wizard who loves building tools that dive into OSINT, ethical hacking, and cryptography. My mission? Create awesome projects that teach, inspire, and make the digital world safer. Whether it’s sniffing networks or sending sneaky SMS, I’m all about coding cool stuff and sharing the knowledge. Wanna check out my cyber creations? Let’s roll! 🚀
 
 ---
 
-## My Skills  
-Here’s what I bring to the table, sharpened through hours of coding and ethical hacking:  
-- **Programming Languages**:  
-  - 🐍 Python: Building robust tools and scripts  
-  - 📡 Wireshark Scripting: Analyzing network traffic 
-- **Cybersecurity Expertise**:  
-  - 🔍 OSINT: Digging deep for open-source intelligence  
-  - 🕵️ Ethical Hacking: Testing systems to make them stronger  
-  - 🌐 Network Analysis: Unraveling the secrets of data packets  
-- **Technologies & Tools**:  
-  - 🐧 Linux: My go-to for development and testing  
-  - 🤖 Automation: Streamlining tasks with scripts  
-  - 🛠️ Wireshark: Capturing and dissecting network traffic  
-- **Soft Skills**:  
-  - 📚 Teaching: Breaking down complex concepts for all  
-  - 🤝 Collaboration: Working with the community to build better tools
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
     
 ---
@@ -82,27 +55,18 @@ Here’s my lineup of killer tools, each crafted to explore cybersecurity and sp
 ---
 
 ##  Connect With Me 
-Wanna talk code, cybersecurity, or just vibe? Hit me up!  
-- 📸 **Instagram**: [gheris__579_](https://www.instagram.com/gheris__579_)  
-- 🎥 **YouTube**: [@ZeRo-_-579-r1x](https://www.youtube.com/@ZeRo-_-579-r1x)
-- 💻 **GitHub**: [Gheris-579](https://github.com/Gheris-579)  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gheris__579_/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@g_h_e_r_i_s) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ZeRo-_-579-r1x) 
 
 ---
 
-##  My GitHub Stats 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gheris-579&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&bg_color=0a0a23&title_color=00ff88&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gheris-579&layout=compact&theme=gruvbox&hide_border=true&bg_color=0a0a23&title_color=00ff88&text_color=ffffff" alt="Top Languages" width="48%" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gheris-579&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gheris-579&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gheris-579&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-##  Visitor Counter 
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/{NEGAN-579}/count.svg" /></p>
-</div>
-
----
 
 ##  Contributing Guidelines  
 I’m pumped to work with you! Want to add some flair to my projects? Here’s how:  
