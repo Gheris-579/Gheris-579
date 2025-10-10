@@ -14,7 +14,9 @@
 
 
 ## About Me 
-Yo, I’m **Gheris** , a cybersecurity geek and Python wizard who loves building tools that dive into OSINT, ethical hacking, and cryptography. My mission? Create awesome projects that teach, inspire, and make the digital world safer. Whether it’s sniffing networks or sending sneaky SMS, I’m all about coding cool stuff and sharing the knowledge. Wanna check out my cyber creations? Let’s roll! 🚀
+Hi, I’m Gheris.
+I’m passionate about cybersecurity and primarily develop in Python, with a particular interest in penetration testing and automation.
+I also work on web development using HTML, CSS, JavaScript, PHP, Bootstrap, and jQuery, and I’m exploring C++ and Arduino for my hardware projects.
 
 ---
 
