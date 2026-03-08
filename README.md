@@ -64,9 +64,8 @@ Here’s my lineup of killer tools, each crafted to explore cybersecurity and sp
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gheris-579&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Gheris-579&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gheris-579&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gheris-579&theme=merko&border_radius=4.9)](https://git.io/streak-stats)
 
 ---
 
