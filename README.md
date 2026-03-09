@@ -33,14 +33,15 @@ Here’s my lineup of killer tools, each crafted to explore cybersecurity and sp
 |----|---------|-------------|----------|
 | 1 | [gHoStGD](https://github.com/Gheris-579/gHoStGD) | A slick OSINT tool for tracking locations or mobile numbers like a pro. | Python |
 | 2 | [Fake-SMS](https://github.com/Gheris-579/Fake-SMS) | Sends anonymous SMS (1/day via Textbelt API) to learn API integration. | Python |
-| 3 | [RANSOMEWARE](https://github.com/Gheris-579/RANSOMEWARE) | Educational ransomware to study malware and crypto concepts. | Python |
-| 4 | [CAM-HACK](https://github.com/Gheris-579/CAM-HACK) | This repository contains CAM-HACK, a Python script that automates discovery of publicly-exposed IP | Python |
-| 5 | [IP-Tracker](https://github.com/Gheris-579/IP-Tracker) | Grabs detailed IP info, built for Linux environments. | Python |
-| 6 | [keylogger](https://github.com/Gheris-579/keylogger) | A simple keylogger for learning about input monitoring. | Python |
-| 7 | [Counter-Strike1.6](https://github.com/Gheris-579/Counter-Strike1.6) | Upgrades Counter-Strike 1.6 with Python-powered features. | Python |
-| 8 | [Sniffing-Attack-using-Wireshark](https://github.com/Gheris-579/Sniffing-Attack-using-Wireshark) | Explores network sniffing with Wireshark for learning. | Wireshark |
-| 9 | [Ip-ChAnGeR](https://github.com/Gheris-579/Ip-ChAnGeR) | Auto-masks or changes IPs for privacy experiments. | Python |
-| 10| [DUPE](https://github.com/Gheris-579/DUPE) | Finds and deletes duplicate files to keep things tidy. | Python |
+| 3 | [GhostNode](https://github.com/Gheris-579/GhostNode) | GhostNode is a cyber-inspired custom client built to enhance the Umingle experience with a cleaner interface, sharper visuals, and a stronger tech identity. | Javascript |
+| 4 | [RANSOMEWARE](https://github.com/Gheris-579/RANSOMEWARE) | Educational ransomware to study malware and crypto concepts. | Python |
+| 5 | [CAM-HACK](https://github.com/Gheris-579/CAM-HACK) | This repository contains CAM-HACK, a Python script that automates discovery of publicly-exposed IP | Python |
+| 6 | [IP-Tracker](https://github.com/Gheris-579/IP-Tracker) | Grabs detailed IP info, built for Linux environments. | Python |
+| 7 | [keylogger](https://github.com/Gheris-579/keylogger) | A simple keylogger for learning about input monitoring. | Python |
+| 8 | [Counter-Strike1.6](https://github.com/Gheris-579/Counter-Strike1.6) | Upgrades Counter-Strike 1.6 with Python-powered features. | Python |
+| 9 | [Sniffing-Attack-using-Wireshark](https://github.com/Gheris-579/Sniffing-Attack-using-Wireshark) | Explores network sniffing with Wireshark for learning. | Wireshark |
+| 10| [Ip-ChAnGeR](https://github.com/Gheris-579/Ip-ChAnGeR) | Auto-masks or changes IPs for privacy experiments. | Python |
+| 11| [DUPE](https://github.com/Gheris-579/DUPE) | Finds and deletes duplicate files to keep things tidy. | Python |
 
 
 ---
