@@ -38,7 +38,6 @@ Here’s my lineup of killer tools, each crafted to explore cybersecurity and sp
 | 5 | [CAM-HACK](https://github.com/Gheris-579/CAM-HACK) | This repository contains CAM-HACK, a Python script that automates discovery of publicly-exposed IP | Python |
 | 6 | [EasyZsh](https://github.com/Gheris-579/EasyZsh) | EasyZsh automates Zsh, Oh My Zsh, plugin, and terminal setup for Debian-based Linux distributions. | Python | 
 | 7 | [IP-Tracker](https://github.com/Gheris-579/IP-Tracker) | Grabs detailed IP info, built for Linux environments. | Python |
-
 | 8 | [keylogger](https://github.com/Gheris-579/keylogger) | A simple keylogger for learning about input monitoring. | Python |
 | 9 | [Counter-Strike1.6](https://github.com/Gheris-579/Counter-Strike1.6) | Upgrades Counter-Strike 1.6 with Python-powered features. | Python |
 | 10| [Sniffing-Attack-using-Wireshark](https://github.com/Gheris-579/Sniffing-Attack-using-Wireshark) | Explores network sniffing with Wireshark for learning. | Wireshark |
